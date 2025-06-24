@@ -36,7 +36,7 @@ This project is built using Kotlin, Java, and Gradle. Here are the steps to buil
 - Android Studio Jellyfish | 2024.1.1 or later
 - Android Gradle Plugin 8.5.0 or later
 - Gradle 8.9
-- Minimum SDK 26
+- Minimum SDK 29
 
 ### Steps
 - Open a terminal and run the following git command:  <pre>git clone https://github.com/navneetpal01/DocShaper.git </pre>
