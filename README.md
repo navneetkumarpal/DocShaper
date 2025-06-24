@@ -32,7 +32,7 @@ Thanks to the creators and maintainers of the open-source libraries used in this
 This project is built using Kotlin, Java, and Gradle. Here are the steps to build the project:
 
 ### Prerequisites
-- Java 8 (1.8)
+- Java 17 
 - Android Studio Jellyfish | 2024.1.1 or later
 - Android Gradle Plugin 8.5.0 or later
 - Gradle 8.9
